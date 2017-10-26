@@ -16,7 +16,8 @@ _Guidelines: Both your title and this description are made public and displayed 
 No previous teaching experience is required, but this talk can benefit anyone who trains, mentors, or teaches others (formally or informally), especially: 
 * Someone who mentors a junior developer and wants to help them reach their potential
 * Someone who manages mid-level developers
-* Someone who often has difficulty explaining coding concepts to non-programmers
+* Someone who communicates technical information to non-developers
+* Someone who trains developers or teaches coding at any level
 
 After the talk, you will have practical takeaways to help you more effectively communicate with developers and non-developers alike.
 
@@ -27,6 +28,7 @@ _Committee note: The “Audience” section helps the program committee get a se
 ## Outline
 1. **Know your audience** (8 minutes)
     * **Connect with your audience.** Why should they listen to you? What can you offer them?
+    * **What are their motivations?** Knowing why your audience wants to learn can help you tailor your lesson.
     * **Empathize with your audience.** What is their level of understanding? Don't assume.
     * **Don't make anyone feel "less than".** Nobody likes being talked down to.
     * **Remove distractions.** What might get in the way of learning?
@@ -35,14 +37,15 @@ _Committee note: The “Audience” section helps the program committee get a se
 2. **Examples that connect** (7 minutes)
     * **One concept at a time.** It's challenging to learn more than one thing at a time. Which is the thing that actually had the effect?
     * **Use examples of things people already understand.** At Hear Me Code class, we take attendance to teach for loops and again to teach enumerate()
-    * **Specific examples are better than abstract generalizations.**
+    * **Specific examples are better than abstract generalizations.** Foo/bar/baz are less helpful than any specific example.
+    * **Model good behavior.**  If you're providing sample code, use meaningful variable names.
     * **Be practical.** How will they be able to use this? We demo real (skill-level appropriate) projects at the end of class.
     * **Why? So what? When will I use this?** These questions will help clarify if your examples are practical.
     * **Be flexible.** Great examples connect with most people, but it's rare that one size fits all.
 
 3. **Know what to hold back** (3 minutes)
-    * **Model good behavior.** Foo/bar/baz are less helpful variable names than any example. If you're providing sample code, use meaningful variable names.
     * **Answer the question that is asked.** Offering lots of extra information or going on a tangent can often confuse new learners.
+    * **Teach the pool, not the ocean.** Knowing what is relevant in the moment and what is best saved for later is key to not overwhelming new learners.
     * **Nuance isn't always helpful.** For new learners, teaching the most common situations is better than teaching a corner case they might never encounter.
 
 4. **Fostering a love of learning** (7 minutes)
@@ -52,7 +55,7 @@ _Committee note: The “Audience” section helps the program committee get a se
     * **Move about.** When possible, teaching concepts through movement makes for unforgettable experiences.
     * **We learn by teaching.** Teaching reinforces what we've learned, forces us to think flexibly, and creates bonds.
 
-_Guidelines: The “outline” is a skeleton of your talk that is as detailed as possible, including rough timings for different sections. If requesting a 45 minute slot, please describe what content would appear in the 45 minute version but not a 30 minute version, either within the outline or in a paragraph at the end._
+_Guidelines: The “outline” is a skeleton of your talk that is as detailed as possible, including rough timings for different sections._
 
 _Committee note: The outline is extremely important for the program committee to understand what the content and structure of your talk will be. We hope that writing the outline is helpful to you as well, to organize and clarify your thoughts for your talk! The outline will not be shared with conference attendees._
 
