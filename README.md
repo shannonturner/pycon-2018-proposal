@@ -18,7 +18,7 @@ No previous teaching experience is required, but this talk can benefit anyone wh
 * Someone who manages mid-level developers
 * Someone who often has difficulty explaining coding concepts to non-programmers
 
-After the talk, you will have several practical takeaways to help you more effectively communicate with developers and non-developers alike.
+After the talk, you will have practical takeaways to help you more effectively communicate with developers and non-developers alike.
 
 _Guidelines: 1–2 paragraphs that should answer three questions: (1) Who is this talk for? (2) What background knowledge or experience do you expect the audience to have? (3) What do you expect the audience to learn or do after watching the talk?_
 
