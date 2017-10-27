@@ -32,7 +32,7 @@ _Committee note: The “Audience” section helps the program committee get a se
     * **Empathize with your audience.** What is their level of understanding? Don't assume.
     * **Don't make anyone feel "less than".** Nobody likes being talked down to.
     * **Remove distractions.** What might get in the way of learning?
-    * **Remember your journey.** You didn't become an expert overnight. Where are they in their journey? Remember that this was difficult for you once, too. Nobody hits a home run at their first at-bat.
+    * **Remember your journey.** You didn't become an expert overnight. Where are they in their journey? Remember that this was difficult for you once, too. Nobody hits a home run their first time.
 
 2. **Examples that connect** (7 minutes)
     * **One concept at a time.** It's challenging to learn more than one thing at a time. Which is the thing that actually had the effect?
@@ -50,8 +50,8 @@ _Committee note: The “Audience” section helps the program committee get a se
 
 4. **Fostering a love of learning** (7 minutes)
     * **Celebrate progress.** Positive feedback encourages growth. Negativity stifles learning.
-    * **"I don't know, let's find out".** This magic phrase reminds learners encourages questions and is a reminder that you don't need to know everything; learning never ends.
-    * **Great question. I love your instincts.** Don't be annoyed when the learner is mentally jumping ahead a few slides and asking about material you're about to cover -- that's a sign that you're doing a good job!
+    * **"I don't know, let's find out."** This magic phrase encourages questions and is a reminder that you don't need to know everything; learning never ends.
+    * **"Great question. I love your instincts.** Don't be annoyed when the learner is mentally jumping ahead a few slides and asking about material you're about to cover -- that's a sign that you're doing a good job!
     * **Move about.** When possible, teaching concepts through movement makes for unforgettable experiences.
     * **We learn by teaching.** Teaching reinforces what we've learned, forces us to think flexibly, and creates bonds.
 
