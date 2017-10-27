@@ -51,7 +51,7 @@ _Committee note: The “Audience” section helps the program committee get a se
 4. **Fostering a love of learning** (7 minutes)
     * **Celebrate progress.** Positive feedback encourages growth. Negativity stifles learning.
     * **"I don't know, let's find out."** This magic phrase encourages questions and is a reminder that you don't need to know everything; learning never ends.
-    * **"Great question. I love your instincts.** Don't be annoyed when the learner is mentally jumping ahead a few slides and asking about material you're about to cover -- that's a sign that you're doing a good job!
+    * **"Great question. I love your instincts."** Don't be annoyed when the learner is mentally jumping ahead a few slides and asking about material you're about to cover -- that's a sign that you're doing a good job!
     * **Move about.** When possible, teaching concepts through movement makes for unforgettable experiences.
     * **We learn by teaching.** Teaching reinforces what we've learned, forces us to think flexibly, and creates bonds.
 
